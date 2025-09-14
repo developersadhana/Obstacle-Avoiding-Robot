@@ -33,6 +33,4 @@ Using a bread board will allow you to experiment a lot more with the project. Yo
 
 
 
-
-https://github.com/user-attachments/assets/a4400b29-9c85-4b09-a897-a32ce8586b4f
-
+[video3.webm](https://github.com/user-attachments/assets/920eb60b-044c-49c2-b8b4-a3a2bb9f08ca)
