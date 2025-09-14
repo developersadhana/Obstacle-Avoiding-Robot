@@ -19,7 +19,7 @@ Here are the components used:
  
 Using a bread board will allow you to experiment a lot more with the project. You can opt to solder the components once the project is reasonably working.
 
- Using a PCB as a chassis is convenient but not suggested because it does not hold all the components together for too long. When held together by hot glue, the castor wheel and motors do not stick strong enough to the PCB. If you are looking for a more sturdy design, use bolts and nuts to hold the components to the chase.
+ Using a PCB as a chassis is convenient but not suggested because it does not hold all the components together for too long. When held together by hot glue, the castor wheel and motors do not stick strong enough to the PCB. If you are looking for a more sturdy design, use bolts and nuts to hold the components to the chassis.
 
  Caution : Be sure to use a motor of the correct rating because if the current is too high for the motor, the armature may burn giving a very distinct burning smell. In that case, do not worry. Turn the bot off for sometime and let it cool down and it will run again.The bot can only run in short intervals of time and will need some time to cool down. This also greatly reduces its durability. If the current is too low, then the motor does not even turn on, so you may have to increase the number of batteries.
 
