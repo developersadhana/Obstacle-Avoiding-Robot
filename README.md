@@ -30,3 +30,9 @@ Using a bread board will allow you to experiment a lot more with the project. Yo
 ![20250914_143543](https://github.com/user-attachments/assets/9cba1308-88c5-4382-abef-1cfbd9a1c47c)
 ![20250914_143656](https://github.com/user-attachments/assets/c34f1b98-f781-48e8-9433-90cfe758ddbb)
 ![20250914_143843](https://github.com/user-attachments/assets/19e9724d-c9be-4eed-835f-548d5a1ddeac)
+
+
+
+
+https://github.com/user-attachments/assets/a4400b29-9c85-4b09-a897-a32ce8586b4f
+
